@@ -14273,7 +14273,7 @@
      ]
     ],
     "service-workers": {
-     "service-worker-registration.html": [
+     "service-worker-registration.https.html": [
       "da46088ca92d8706c40a48fdb3805aaf28bbddd5",
       [
        null,
